@@ -1,5 +1,0 @@
-Flask==2.3.2  # Flask framework for creating the web server
-flask-cors==3.0.10  # Enable Cross-Origin Resource Sharing (CORS)
-requests==2.31.0  # For making HTTP requests
-feedparser==6.0.10  # For parsing RSS/Atom feeds
-werkzeug==2.3.6  # Utilities for secure file handling
